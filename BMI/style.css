@@ -1,0 +1,25 @@
+
+input{padding:12px 20px;
+    border-radius:4px;
+    width:50%;
+    text-transform:uppercase;}
+    
+    #reset{padding:15px;
+    border-radius:20px;
+    cursor:pointer;
+    float:left;
+    width:250px;}
+    
+    .btn{padding:15px;
+    border-radius:20px;
+    cursor:pointer;
+    float:left;
+    width:250px;}
+    
+    h1{color:blue;
+    font:30%;
+    text-align:center;
+    }
+    
+    body{background-color:pink;
+    opacity:1.0;}
